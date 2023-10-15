@@ -28,7 +28,7 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 ## 🖇 VPS Deployment
 
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
+git clone https://github.com/nareenannapapa/YukkiMusicBot &&  cd YukkiMusicBot
 
 # 🏷 Support / Assistance
 
